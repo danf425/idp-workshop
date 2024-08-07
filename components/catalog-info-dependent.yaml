@@ -25,7 +25,7 @@ spec:
   lifecycle: experimental
 #  system: Demo
   dependsOn:
-    - component:default/fill-in-your-name-service
+    - component:default/danf-service
 #  consumesApis:
 #    - user-api
 #  providesApis:
