@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: danfarlo-service
+  name: danfar-service
   description: |
     My first service
   links:
@@ -18,7 +18,7 @@ metadata:
 #  labels:
 #    key1: value1
   tags:
-    - danfarlo
+    - danf
 spec:
   type: service
   owner: TeamA
